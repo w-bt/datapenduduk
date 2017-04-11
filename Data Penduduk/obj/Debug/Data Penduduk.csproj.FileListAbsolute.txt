@@ -1,0 +1,11 @@
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\bin\Debug\Data Penduduk.exe.config
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\bin\Debug\Data Penduduk.exe
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\bin\Debug\Data Penduduk.pdb
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\bin\Debug\MetroFramework.dll
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\bin\Debug\MetroFramework.Fonts.dll
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\obj\Debug\Data Penduduk.csprojResolveAssemblyReference.cache
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\obj\Debug\Data_Penduduk.Form1.resources
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\obj\Debug\Data_Penduduk.Properties.Resources.resources
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\obj\Debug\Data Penduduk.csproj.GenerateResource.Cache
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\obj\Debug\Data Penduduk.exe
+c:\users\widhian\documents\visual studio 2012\Projects\Data Penduduk\Data Penduduk\obj\Debug\Data Penduduk.pdb
